@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hello World
+title: hexo
 subtitle:
 description:
 author: Alimjan
@@ -64,7 +64,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## theme: clean-blog
-   theme:Daily
+theme: Daily
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
