@@ -68,6 +68,6 @@ theme: clean-blog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type: github
   repo: https://github.com/maninwindow/maninwindow.github.com.git
   branch: master
