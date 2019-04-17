@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CCTMC</title>
+    <link>https://maninwindow.github.io/</link>
+    <description>Recent content on CCTMC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Apr 2019 13:02:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://maninwindow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CCTMC club meetings</title>
+      <link>https://maninwindow.github.io/post/meetings/</link>
+      <pubDate>Tue, 16 Apr 2019 13:02:36 +0800</pubDate>
+      
+      <guid>https://maninwindow.github.io/post/meetings/</guid>
+      <description>See you every Thuersday at Yika coffee!!!</description>
+    </item>
+    
+    <item>
+      <title>Happy moments</title>
+      <link>https://maninwindow.github.io/post/images/</link>
+      <pubDate>Tue, 16 Apr 2019 13:02:36 +0800</pubDate>
+      
+      <guid>https://maninwindow.github.io/post/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to CCTMC!</title>
+      <link>https://maninwindow.github.io/post/welcome/</link>
+      <pubDate>Tue, 16 Apr 2019 13:02:36 +0800</pubDate>
+      
+      <guid>https://maninwindow.github.io/post/welcome/</guid>
+      <description>Toastmasters International (TI) is a US headquartered nonprofit educational organization that operates clubs worldwide for the purpose of promoting communication and public speaking skills.
+CCTMC is one of the finest Toastmasters clubs in Beijing. If you want to be creative, critical and courageous, please come to find us at Yika coffee.</description>
+    </item>
+    
+  </channel>
+</rss>
