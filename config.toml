@@ -1,0 +1,29 @@
+baseURL = "https://maninwindow.github.io/"
+languageCode = "en-us"
+title = "CCTMC"
+theme = "ananke"
+themesDir = "themes"
+SectionPagesMenu = "main"
+
+[social]
+twitter = "GoHugoIO"
+
+[params]
+  favicon = ""
+  description = "The last theme"
+  facebook = ""
+  twitter = ""
+  linkedin = ""
+  featured_image = "/images/CCTMC01.jpg"
+  recent_posts_number = 10
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+	
