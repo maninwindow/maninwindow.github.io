@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://maninwindow.github.io/events/spring_outing/</loc>
+    <lastmod>2019-04-22T14:06:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/post/spring_outing/</loc>
+    <lastmod>2019-04-22T14:06:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/</loc>
+    <lastmod>2019-04-22T14:06:24+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/events/</loc>
+    <lastmod>2019-04-22T14:03:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/about/</loc>
+    <lastmod>2019-04-18T21:11:28+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/officers/</loc>
+    <lastmod>2019-04-18T21:06:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/post/</loc>
+    <lastmod>2019-04-18T20:28:48+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
