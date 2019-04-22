@@ -9,7 +9,7 @@ menu:
 ![](/images/others/CCTMC01.jpg)
 
 <center>CCTMC is one of the best Toastmasters clubs in Beijing. If you want to join our club, please reach us at:</center>
-<center>VPPR: BingJie</center>
+<center>VPM: BingJie</center>
 <center>Phone: 15901026334</center>
 <center>WeChat: bingjiezainali</center>
 <center>Our avenue:</center>

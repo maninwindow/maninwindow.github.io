@@ -8,7 +8,7 @@ menu:
 
 <!-- ![](/images/officers/Hana.jpeg) -->
 <center>
-<img style="width: 50%;height: 50%;"src="/images/officers/Hana.jpeg">
+<img style="width: 50%;height: 50%;"src="/images/officers/Hana_new.jpeg">
 
 **Hana**: President
 </center>
