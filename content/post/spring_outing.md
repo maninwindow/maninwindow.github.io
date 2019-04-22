@@ -8,6 +8,8 @@ date: 2019-04-22T14:06:24+08:00
 
 ## Warm up session
 
+&nbsp;&nbsp;&nbsp;&nbsp;Participants were devided into three teams: Red, Blue and Yellow. Let's do some warming-up together!
+
 <center>
 <img style="width: 100%;height: 100%;"src="/images/outing/Warmup_01.jpeg">
 
@@ -30,16 +32,14 @@ date: 2019-04-22T14:06:24+08:00
 
 ## Walking race session
 
-&nbsp;&nbsp;&nbsp;&nbsp;Participants were devided into three teams: Red, Blue and Yellow. Let's do some warming-up together!
-
 **<center>Rules of the Game</center>**
 &nbsp;&nbsp;&nbsp;&nbsp;1. Both roaming and jogging are ok; each team's result is based on the last-arriving member's record;
 
 &nbsp;&nbsp;&nbsp;&nbsp;2. Each team should finish two shooting & photography tasks 
 
-- Take a picture with elements of tower, plants, water and all the team members
+&nbsp;&nbsp;- Take a picture with elements of tower, plants, water and all the team members
 
-- Shoot a 20-sec video with an animal/kid and all the team members 
+&nbsp;&nbsp;- Shoot a 20-sec video with an animal/kid and all the team members 
 
 <center>
 <img style="width: 100%;height: 100%;"src="/images/outing/running01.jpeg">
