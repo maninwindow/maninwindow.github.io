@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://maninwindow.github.io/events/officers_party/</loc>
+    <lastmod>2019-07-06T15:42:53+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maninwindow.github.io/events/dalian_conference/</loc>
+    <lastmod>2019-06-30T19:00:28+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://maninwindow.github.io/events/spring_outing/</loc>
     <lastmod>2019-04-22T14:06:24+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,13 +25,6 @@
   
   <url>
     <loc>https://maninwindow.github.io/post/spring_outing/</loc>
-    <lastmod>2019-04-22T14:06:24+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://maninwindow.github.io/</loc>
     <lastmod>2019-04-22T14:06:24+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -53,11 +60,20 @@
   
   <url>
     <loc>https://maninwindow.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://maninwindow.github.io/</loc>
+    <lastmod>2019-07-06T15:42:53+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://maninwindow.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
